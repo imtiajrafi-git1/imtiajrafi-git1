@@ -16,14 +16,8 @@
 ###
 <h3 align="center">Turning coffee into code☕💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiajrafi-git1&label=Profile%20views&color=0e75b6&style=flat" alt="imtiajrafi-git1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiajrafi-git1" alt="imtiajrafi-git1" /></a> </p>
 
 
-- 🔭 I’m currently working on **Online Examination System.**
-
-- 💬 Ask me about **Devops**
 
 - 📫 How to reach me **imtiajrafi301@gmail.com**
 
@@ -55,10 +49,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imtiajrafi-git1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=imtiajrafi-git1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
