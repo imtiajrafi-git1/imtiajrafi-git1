@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,50:56CCF2,100:2980B9&height=220&section=header&text=IMTIAJ%20AHMED%20RAFI&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Creative%20Front-End%20Developer%20%7C%20UI%2FUX%20%7C%20Designer&descAlignY=62&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,50:56CCF2,100:2980B9&height=220&section=header&text=IMTIAJ%20AHMED%20RAFI&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Creative%20Front-End%20Developer%20%7C%20UI%2FUX%20%7C%20Designer&descAlignY=62&descSize=15"/>
 </p>
 
 <!-- Animated Role Ticker -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=56CCF2&center=true&vCenter=true&width=650&lines=Creative+Front-End+Developer;UI%2FUX+Designer;Canva+Designer;Photographer;Change+Maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=56CCF2&center=true&vCenter=true&width=550&lines=Creative+Front-End+Developer;UI%2FUX+Designer;Canva+Designer;Photographer;Change+Maker" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,13 +28,12 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Software Engineering** student at **Daffodil International University** *(2024–2028)*
-- 🩺 Building **Healer Boy's** — a healthcare companion platform for appointment booking, medicine reminders & direct doctor consultations
-- 🎬 Leading development on a suite of creative, animation-driven front-end experiences — from travel sites to live dashboards
-- 🎯 Focus areas: **Creative Front-End Developer**, **UI/UX Designer**, **Canva Designer**, **Photographer**, **Change Maker**
-- 📚 Currently learning: **React**, **advanced motion/animation systems**, and **backend fundamentals**
-- 🌱 Long-term goal: ship products that make everyday services (health, travel, donation) feel effortless and beautiful
+- Building **Healer Boy's** — healthcare support for underprivileged people.
+- Leading development on a suite of creative, animation-driven front-end experiences — from travel sites to live dashboards
+- Focus areas: **Creative Front-End Developer**, **UI/UX Designer**, **Canva Designer**, **Photographer**, **Change Maker**
+- Currently learning: **React**, **advanced motion/animation systems**, and **backend fundamentals**
 - 💬 Ask me about: **UI motion design, glassmorphism, Canva design systems, vanilla JS animation**
-- ⚡ Fun fact: I turn **coffee** into **code** and ideas into pixels
+- Fun fact: I turn **coffee** into **code** and ideas into pixels
 
 ---
 
@@ -153,27 +152,11 @@ Real-time GPS tracking system with live map visualization, vehicle monitoring, a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imtiajrafi-git1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56CCF2&icon_color=56CCF2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiajrafi-git1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56CCF2" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiajrafi-git1&theme=tokyonight&hide_border=true&background=0D1117&ring=56CCF2&fire=56CCF2" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtiajrafi-git1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=56CCF2&line=56CCF2&point=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imtiajrafi-git1&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
-<!-- Contribution Snake Animation
-     Requires a one-time GitHub Action setup — see notes below.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imtiajrafi-git1/imtiajrafi-git1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -209,15 +192,7 @@ Real-time GPS tracking system with live map visualization, vehicle monitoring, a
 
 </details>
 
----
 
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,50:56CCF2,100:2980B9&height=100&section=footer"/>
