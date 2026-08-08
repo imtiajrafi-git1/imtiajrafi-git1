@@ -14,11 +14,8 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internship%20Opportunities-2980B9?style=flat-square" />
 </p>
 
----
-
-### 📫 Connect With Me
-
-<p align="left">
+<!-- Social + Quick Links -->
+<p align="center">
   <a href="mailto:imtiajrafi7824@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/share/1JM7AaFrQ7/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://github.com/imtiajrafi-git1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -30,11 +27,14 @@
 
 ### 👨‍💻 About Me
 
--    🎓 **Software Engineering** student at **Daffodil International University** *(2024–2028)*
--    Building **Healer Boy's** — a healthcare companion platform for appointment booking, medicine reminders & direct doctor consultations
--    Leading development on a suite of creative, animation-driven front-end experiences — from travel sites to live dashboards
--    Focus areas: **Creative Front-End Developer**, **UI/UX Designer**, **Canva Designer**, **Photographer**, **Change Maker**
--    Fun fact: I turn **coffee** into **code** and ideas into pixels 
+- 🎓 **Software Engineering** student at **Daffodil International University** *(2024–2028)*
+- 🩺 Building **Healer Boy's** — a healthcare companion platform for appointment booking, medicine reminders & direct doctor consultations
+- 🎬 Leading development on a suite of creative, animation-driven front-end experiences — from travel sites to live dashboards
+- 🎯 Focus areas: **Creative Front-End Developer**, **UI/UX Designer**, **Canva Designer**, **Photographer**, **Change Maker**
+- 📚 Currently learning: **React**, **advanced motion/animation systems**, and **backend fundamentals**
+- 🌱 Long-term goal: ship products that make everyday services (health, travel, donation) feel effortless and beautiful
+- 💬 Ask me about: **UI motion design, glassmorphism, Canva design systems, vanilla JS animation**
+- ⚡ Fun fact: I turn **coffee** into **code** and ideas into pixels
 
 ---
 
@@ -153,5 +153,72 @@ Real-time GPS tracking system with live map visualization, vehicle monitoring, a
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imtiajrafi-git1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56CCF2&icon_color=56CCF2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiajrafi-git1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56CCF2" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiajrafi-git1&theme=tokyonight&hide_border=true&background=0D1117&ring=56CCF2&fire=56CCF2" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtiajrafi-git1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=56CCF2&line=56CCF2&point=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imtiajrafi-git1&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+<!-- Contribution Snake Animation
+     Requires a one-time GitHub Action setup — see notes below.
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imtiajrafi-git1/imtiajrafi-git1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+### 🏆 Certifications & Achievements
+
+<details open>
+<summary><b>💻 Tech & Programming</b></summary>
+<br>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/DIU%20Code%20Trap-Programming%20Contest%20%E2%80%A2%20Spring%202025-2980B9?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/DIU%20Robotics%20Club-Arduino%20%26%20Motor%20Control-56CCF2?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ICT%20Division%20%26%20UNICEF-Safe%20Internet%20for%20Children-1CABE2?style=for-the-badge&logo=unicef&logoColor=white" />
+
+</details>
+
+<details>
+<summary><b>🎨 Creative & Photography</b></summary>
+<br>
+
+<img src="https://img.shields.io/badge/DIU%20Photographic%20Society-Certificate%20of%20Award%202025-D4A017?style=for-the-badge&logo=camera&logoColor=white" />
+<img src="https://img.shields.io/badge/Mega%20Cultural%20Event%202020-People's%20Choice%20Winner%20%E2%80%A2%20DSLR%20Photography-E4405F?style=for-the-badge&logo=adobelightroom&logoColor=white" />
+
+</details>
+
+<details>
+<summary><b>🌍 Community & Recognition</b></summary>
+<br>
+
+<img src="https://img.shields.io/badge/Dept.%20of%20SWE%2C%20DIU-Certificate%20of%20Appreciation-8B5E3C?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Cultural%20Cloud%20Carnival-Certificate%20of%20Participation-2E8B57?style=for-the-badge&logo=star&logoColor=white" />
+
+</details>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,50:56CCF2,100:2980B9&height=100&section=footer"/>
 </p>
