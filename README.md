@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,50:56CCF2,100:2980B9&height=220&section=header&text=IMTIAJ%20AHMED%20RAFI&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Creative%20Front-End%20Dev%20%7C%20UI%2FUX%20%7C%20Designer&descAlignY=62&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,50:56CCF2,100:2980B9&height=220&section=header&text=IMTIAJ%20AHMED%20RAFI&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Creative%20Front-End%20Developer%20%7C%20UI%2FUX%20%7C%20Designer&descAlignY=62&descSize=18"/>
 </p>
 
 <!-- Animated Role Ticker -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=56CCF2&center=true&vCenter=true&width=650&lines=Creative+Front-End+Developer;UI%2FUX+Designer;Canva+Designer;Photographer;Change+Maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=56CCF2&center=true&vCenter=true&width=650&lines=Creative+Front-End+Developer;UI%2FUX+Designer;Canva+Designer;Photographer;Change+Maker" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,11 +30,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Software Engineering student at **Daffodil International University** *(2024–2028)*
-- 🩺 Building **Healer Boy's** — a healthcare companion platform for appointment booking, medicine reminders & direct doctor consultations
-- 🎨 Leading development on a suite of creative, animation-driven front-end experiences — from travel sites to live dashboards
-- 🔭 Focus areas: **Creative Front-End Developer**, **UI/UX Designer**, **Canva Designer**, **Photographer**, **Change Maker**
-- ⚡ Fun fact: I turn coffee into code and ideas into pixels ☕🎨
+-    🎓 **Software Engineering** student at **Daffodil International University** *(2024–2028)*
+-    Building **Healer Boy's** — a healthcare companion platform for appointment booking, medicine reminders & direct doctor consultations
+-    Leading development on a suite of creative, animation-driven front-end experiences — from travel sites to live dashboards
+-    Focus areas: **Creative Front-End Developer**, **UI/UX Designer**, **Canva Designer**, **Photographer**, **Change Maker**
+-    Fun fact: I turn **coffee** into **code** and ideas into pixels 
 
 ---
 
@@ -140,12 +140,12 @@ Real-time GPS tracking system with live map visualization, vehicle monitoring, a
 
 **Core Stack**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,canva,python,java,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,python,java,cpp,c&theme=dark" />
 </p>
 
 **Tools & Infra**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,canva,vscode,postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postgres,mysql&theme=dark" />
 </p>
 
 ---
@@ -153,18 +153,9 @@ Real-time GPS tracking system with live map visualization, vehicle monitoring, a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imtiajrafi-git1&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=56CCF2&title_color=56CCF2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiajrafi-git1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56CCF2" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiajrafi-git1&theme=tokyonight&hide_border=true&background=0D1117&ring=56CCF2&fire=56CCF2" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imtiajrafi-git1&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,50:56CCF2,100:2980B9&height=100&section=footer"/>
 </p>
