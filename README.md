@@ -155,7 +155,3 @@ Real-time GPS tracking system with live map visualization, vehicle monitoring, a
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiajrafi-git1&theme=tokyonight&hide_border=true&background=0D1117&ring=56CCF2&fire=56CCF2" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imtiajrafi-git1&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
