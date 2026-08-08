@@ -1,18 +1,17 @@
-<!-- Header Typing Animation -->
+<!-- Header Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Imtiaj+Ahmed+Rafi+%F0%9F%91%8B;Creative+Front-End+Developer;UI%2FUX+%2B+Canva+Designer;Photographer+%7C+Change+Maker" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,50:56CCF2,100:2980B9&height=220&section=header&text=IMTIAJ%20AHMED%20RAFI&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Creative%20Front-End%20Dev%20%7C%20UI%2FUX%20%7C%20Designer&descAlignY=62&descSize=18"/>
+</p>
+
+<!-- Animated Role Ticker -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=56CCF2&center=true&vCenter=true&width=650&lines=Creative+Front-End+Developer;UI%2FUX+Designer;Canva+Designer;Photographer;Change+Maker" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Imtiaj%20Ahmed%20Rafi&fontSize=42&fontColor=00C6FF&animation=fadeIn&fontAlignY=38&desc=Creative%20Front-End%20Dev%20%7C%20UI%2FUX%20%7C%20Designer&descAlignY=58&descSize=18"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imtiajrafi-git1&color=00C6FF&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/imtiajrafi-git1?label=Followers&style=flat-square&color=00C6FF" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internship%20Opportunities-2C5364?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=imtiajrafi-git1&color=56CCF2&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/imtiajrafi-git1?label=Followers&style=flat-square&color=56CCF2" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internship%20Opportunities-2980B9?style=flat-square" />
 </p>
 
 ---
@@ -26,8 +25,6 @@
   <a href="https://www.instagram.com/rafu_002" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/imtiaj-ahmed-rafi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-> ⚠️ Add your X (Twitter) profile URL and I'll drop that badge in too — the link wasn't included in what you sent.
 
 ---
 
@@ -50,7 +47,9 @@
 ### ✨ Premium Portfolio Website
 Modern animated portfolio with glassmorphism UI, cinematic transitions, and a fully custom motion system — built with no frameworks, just clean vanilla code.
 
-`HTML` `CSS` `JavaScript`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </td>
 <td width="50%" valign="top">
@@ -58,7 +57,10 @@ Modern animated portfolio with glassmorphism UI, cinematic transitions, and a fu
 ### 💙 HopeFund
 Online donation platform with campaign tracking, a validated donation flow, and persistent giving history stored client-side.
 
-`HTML` `CSS` `JavaScript` `LocalStorage`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/LocalStorage-56CCF2?style=flat-square&logo=googlechrome&logoColor=white" />
 
 </td>
 </tr>
@@ -68,7 +70,9 @@ Online donation platform with campaign tracking, a validated donation flow, and 
 ### ✈️ Queen Travels
 Travel agency website with immersive galleries, animated package showcases, and a smooth booking-enquiry experience.
 
-`HTML` `CSS` `JavaScript`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </td>
 <td width="50%" valign="top">
@@ -76,7 +80,9 @@ Travel agency website with immersive galleries, animated package showcases, and 
 ### 🍽️ Restaurant Website
 Premium restaurant UI with an editorial layout, animated menu tabs, and an elegant reservation experience.
 
-`HTML` `CSS` `JavaScript`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </td>
 </tr>
@@ -86,7 +92,9 @@ Premium restaurant UI with an editorial layout, animated menu tabs, and an elega
 ### 🛒 E-Commerce Landing Page
 Responsive shopping interface with quick-view product cards, a sticky mini-cart, and conversion-focused sections.
 
-`HTML` `CSS` `JavaScript`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </td>
 <td width="50%" valign="top">
@@ -94,7 +102,9 @@ Responsive shopping interface with quick-view product cards, a sticky mini-cart,
 ### 📊 Dashboard UI
 Analytics dashboard with animated KPI counters, hand-built CSS charts, and a fully themeable interface.
 
-`HTML` `CSS` `JavaScript`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </td>
 </tr>
@@ -104,7 +114,10 @@ Analytics dashboard with animated KPI counters, hand-built CSS charts, and a ful
 ### 🩺 Healer Boy's
 Healthcare companion platform for appointment booking, medicine reminders, and direct doctor consultations.
 
-`HTML` `CSS` `JavaScript` `API`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/API-56CCF2?style=flat-square&logo=fastapi&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
@@ -112,7 +125,10 @@ Healthcare companion platform for appointment booking, medicine reminders, and d
 ### 📍 TrackBD — Live GPS Tracking
 Real-time GPS tracking system with live map visualization, vehicle monitoring, and route history.
 
-`HTML` `CSS` `JavaScript` `Map API`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Map%20API-56CCF2?style=flat-square&logo=googlemaps&logoColor=white" />
 
 </td>
 </tr>
@@ -124,12 +140,12 @@ Real-time GPS tracking system with live map visualization, vehicle monitoring, a
 
 **Core Stack**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,python,java,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,canva,python,java,cpp,c&theme=dark" />
 </p>
 
 **Tools & Infra**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,canva,vscode,postgres,mysql&theme=dark" />
 </p>
 
 ---
@@ -137,12 +153,12 @@ Real-time GPS tracking system with live map visualization, vehicle monitoring, a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imtiajrafi-git1&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiajrafi-git1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imtiajrafi-git1&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=56CCF2&title_color=56CCF2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiajrafi-git1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=56CCF2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiajrafi-git1&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiajrafi-git1&theme=tokyonight&hide_border=true&background=0D1117&ring=56CCF2&fire=56CCF2" />
 </p>
 
 <p align="center">
@@ -150,5 +166,5 @@ Real-time GPS tracking system with live map visualization, vehicle monitoring, a
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C75,50:203A43,100:0F2027&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,50:56CCF2,100:2980B9&height=100&section=footer"/>
 </p>
