@@ -27,13 +27,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Software Engineering** student at **Daffodil International University** *(2024–2028)*
-- Building **Healer Boy's** — Healthcare support for underprivileged people.
-- Leading development on a suite of creative, animation-driven front-end experiences — from travel sites to live dashboards
-- Focus areas: **Creative Front-End Developer**, **UI/UX Designer**, **Canva Designer**, **Photographer**, **Change Maker**
-- Currently learning: **React**, **advanced motion/animation systems**, and **backend fundamentals**
-- 💬 Ask me about: **UI motion design, glassmorphism, Canva design systems, vanilla JS animation**
-- Fun fact: I turn **coffee** into **code** and ideas into pixels
+- 🎓 $\color{#FFD700}{\textbf{Software Engineering}}$ student at $\color{#FFD700}{\textbf{Daffodil International University}}$ *(2024–2028)*
+- Building $\color{#FFD700}{\text{Healer Boy's}}$ — Healthcare support for underprivileged people.
+- Leading development on a suite of $\color{#FFD700}{\text{creative, animation-driven front-end}}$ experiences — from travel sites to live dashboards.
+- Focus areas: $\color{#FFD700}{\text{Creative Front-End Developer}}$, $\color{#FFD700}{\text{UI/UX Designer}}$, $\color{#FFD700}{\text{Canva Designer}}$, $\color{#FFD700}{\text{Photographer}}$, $\color{#FFD700}{\text{Change Maker.}}$
+- Currently learning: $\color{#FFD700}{\text{React}}$, $\color{#FFD700}{\text{advanced motion/animation systems}}$, and $\color{#FFD700}{\text{backend fundamentals}}$
+- 💬 Ask me about: $\color{#FFD700}{\text{UI motion design}}$, $\color{#FFD700}{\text{glassmorphism}}$, $\color{#FFD700}{\text{Canva design systems}}$, $\color{#FFD700}{\text{vanilla JS animation.}}$
+- Fun fact: I turn **coffee** into **code** and ideas into pixels.
 
 ---
 
@@ -178,6 +178,10 @@ Real-time GPS tracking system with live map visualization, vehicle monitoring, a
 ---
 
 <!-- Certifications Section Header -->
+<p align="center">
+  <img stype=rect&color=0:141E30,50:6A3093,100:141E30&height=70&section=header&text=%F0%9F%8F%86%20Certifications%20%26%20Achievements&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
+</p>
+
 <details open>
 <summary>💻&nbsp;&nbsp;<b>Tech & Programming</b></summary>
 <br>
